@@ -8,4 +8,4 @@ This project is compiled from multiple source codes. As below:
 - About getting keypoint from Yolov7 pose: https://stackabuse.com/pose-estimation-and-keypoint-detection-with-
 yolov7-in-python/
 - About traning LSTM model: https://www.youtube.com/watch?v=_52-kz08LvU
-Sorry about that if source are not fully cited.
+- Sorry about that if source are not fully cited.
